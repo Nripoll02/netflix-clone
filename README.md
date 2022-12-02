@@ -1,3 +1,3 @@
 # Landing page Netflix clone
 
-https://imgur.com/RX3tW7f
+<img src="https://imgur.com/RX3tW7f">
